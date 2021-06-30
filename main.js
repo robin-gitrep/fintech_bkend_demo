@@ -4,4 +4,4 @@ const product = require("./product");
 
 // product.delete_product_by_id(9);
 product.update_price_by_id(10, 1500);
-product.get_all_products();
+product.get_all_products(); 
